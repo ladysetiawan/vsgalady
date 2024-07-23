@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">VSGA Lady</string>
+    <string name="tampilkan">tampilkan</string>
+    <string name="masukkan_nama_anda">masukkan_nama_anda</string>
+    <string name="nama_anda" />
 </resources>
